@@ -2,5 +2,9 @@
   {
     "package": "ASMap",
     "oncran": true
+  },
+  {
+    "package": "wgaim",
+    "oncran": true
   }
 ]
