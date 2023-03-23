@@ -8,6 +8,11 @@
 	url = https://github.com/drj001/asmap
 	shallow = true
 	registered = true
+[submodule "hett"]
+	path = hett
+	url = https://github.com/cran/hett
+	shallow = true
+	registered = true
 [submodule "wgaim"]
 	path = wgaim
 	url = https://github.com/drj001/wgaim
