@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "ASMap"]
 	path = ASMap
 	url = https://github.com/drj001/asmap
-	shallow = true
-	registered = true
 [submodule "hett"]
 	path = hett
 	url = https://github.com/cran/hett
-	shallow = true
-	registered = true
 [submodule "wgaim"]
 	path = wgaim
 	url = https://github.com/drj001/wgaim
-	shallow = true
-	registered = true
